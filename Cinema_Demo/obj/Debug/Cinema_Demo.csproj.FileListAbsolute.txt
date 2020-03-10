@@ -1,0 +1,17 @@
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\bin\Debug\Data\Database1.mdf
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\bin\Debug\Data\Database1_log.ldf
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\bin\Debug\Cinema_Demo.exe.config
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\bin\Debug\Cinema_Demo.exe
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\bin\Debug\Cinema_Demo.pdb
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.csprojAssemblyReference.cache
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.Auth.resources
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.Films.resources
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.Halls.resources
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.Properties.Resources.resources
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.Sessions.resources
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.Tickets.resources
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.csproj.GenerateResource.cache
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.exe
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.pdb
+C:\Users\student.LAN\source\repos\Cinema_Demo\Cinema_Demo\obj\Debug\Cinema_Demo.MainForm.resources

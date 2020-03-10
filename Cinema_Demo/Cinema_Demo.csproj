@@ -62,12 +62,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Auth.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Auth.Designer.cs">
-      <DependentUpon>Auth.cs</DependentUpon>
-    </Compile>
     <Compile Include="DataManager.cs" />
     <Compile Include="DbProvider.cs" />
     <Compile Include="Films.cs">
@@ -76,11 +70,17 @@
     <Compile Include="Films.Designer.cs">
       <DependentUpon>Films.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Auth.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Auth.Designer.cs">
+      <DependentUpon>Auth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Halls.cs">
       <SubType>Form</SubType>
@@ -112,14 +112,14 @@
     <Compile Include="Tickets.Designer.cs">
       <DependentUpon>Tickets.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Auth.resx">
-      <DependentUpon>Auth.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Films.resx">
       <DependentUpon>Films.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Auth.resx">
+      <DependentUpon>Auth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Halls.resx">
       <DependentUpon>Halls.cs</DependentUpon>
@@ -132,6 +132,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Sessions.resx">
       <DependentUpon>Sessions.cs</DependentUpon>
@@ -160,6 +161,13 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
+    <Content Include="Images\close.png" />
+    <None Include="Images\film.png" />
+    <Content Include="Images\logo.png" />
+    <Content Include="Images\mainLogo.jpg" />
+    <None Include="Images\minimize.png" />
+    <None Include="Images\session.png" />
+    <None Include="Images\ticket.png" />
     <Content Include="SqlQueries\Cinema %28Create%29.sql" />
   </ItemGroup>
   <ItemGroup />
